@@ -23,8 +23,8 @@ const Card = () => {
         </div> 
         </UserInfo>
         <PostInfo>
-          <h4>Projeto para curso de HTML e CSS </h4>
-          <p>Projeto feito no curso de html e css no bootcamp da dio do Global avanade...<strong>Saiba Mais</strong></p>
+          <h4>Projeto para o curso de HTML e CSS </h4>
+          <p>Projeto feito no curso de html e css no bootcamp da DIO...<strong>Saiba Mais</strong></p>
         </PostInfo>
         <HasInfo>
           <h4>#HTML #CSS #Javascript</h4>
